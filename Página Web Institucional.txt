@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Colegio Bachillerato</title>
+</head>
+<body>
+
+    <h1>Colegio José Francisco Socarrás</h1>
+    <p><strong>Misión:</strong> Formar estudiantes con valores y evolucionar el pensamiento crítico.</p>
+    <p><em>Slogan: "Hacia el éxito".</em></p>
+    <hr>
+    <h2>Nuestra Visión</h2>
+    <p>Ser el mejor colegio de la localidad de Bosa.<br>Contamos con excelencia académica y convivencial.</p>
+
+    <img src="plazoleta.jpg" alt="Plazoleta principal del Colegio" width="300" height="200">
+    <img src="comedor.jpg" alt="Comedor (donde también se realizan ceremonias)" width="300" height="200">
+    
+    <p>HIMNO SOCARRAS</p>
+    <audio controls>
+        <source src="HIMNO SOCARRAS.mp3" type="audio/mpeg">
+    </audio>
+
+    <p>Video del Colegio:</p>
+    <video controls width="400">
+        <source src="VIDEO.mp4" type="video/mp4">
+    </video>
+
+    <hr>
+
+    <h3>MATERIAS OFRECIDAS</h3>
+    <ul>
+        <li>Matemáticas</li>
+        <li>Literatura/Lengua</li>
+        <li>Ciencias Naturales</li>
+        <li>Historia/Geografía</li>
+        <li>Inglés</li>
+        <li>Educación Física y Artística</li>
+        <li>Educación Emocional</li>
+        <li>Ética/Valores</li>
+        <li>Tecnología e Inteligencia Financiera</li>	
+    </ul>
+
+    <h3>Pasos para la inscripción</h3>
+    <ol>
+        <li>Traer cédula.</li>
+        <li>Llenar ficha.</li>
+        <li>Traer documentación solicitada.</li>
+        <li>Firmar contrato con la institución.</li>
+    </ol>
+
+    <table border="1">
+        <caption>Horario de clases</caption>
+        <tr>
+            <th>Hora</th>
+            <th>Lunes</th>
+            <th>Martes</th>
+        </tr>
+        <tr>
+            <td>07:00</td>
+            <td colspan="2">Inauguración</td> </tr>
+        <tr>
+            <td>08:00</td>
+            <td>Matemáticas</td>
+            <td>Ética/Valores</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h3>Formulario de contacto o inscripción</h3>
+    <form action="enviar.php" method="POST">
+        <label for="nom">Nombre:</label>
+        <input type="text" id="nom" placeholder="Tu nombre" required><br>
+
+        <label for="mail">Correo:</label>
+        <input type="email" id="mail" placeholder="mail@ejemplo.com" required><br>
+
+        <label for="tel">Teléfono:</label>
+        <input type="tel" id="tel" required><br>
+
+        <label>Interés:</label>
+        <select>
+        <li>Educación Física y Artística</li>
+        <li>Educación Emocional</li>
+        <li>Tecnología e Inteligencia Financiera</li>
+        </select><br>
+
+        <label>Mensaje que quieras dejar:</label><br>
+        <textarea placeholder="Escribe aquí..."></textarea><br>
+
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpiar</button>
+    </form>
+
+</body>
+</html>
