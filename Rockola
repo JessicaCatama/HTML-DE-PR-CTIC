@@ -1,0 +1,97 @@
+<!DOCTYPE>
+<html>
+<body>
+
+
+<h2>EL CATATUMBO</h2>
+<img src="yupi.jpg" width="200" height="200">
+<img src="rocolita.jpg" width="200" height="200">
+<p>¡Creadores de esta rockola!</p>
+<h4>Jessica Catama</h4>
+<h4>Alejandro Parra</h4>
+
+
+<nav> 
+  <h4>Elige la categoría que deseas escuchar</h4>
+  <ul>
+    <li><a href="#Canciones">1.Rancheras</a></li>
+	<li><a href="#Canciones2">2.Llanero</a></li>
+	<li><a href="#Canciones3">3.Rock</a></li></td>
+
+</ul>
+</nav>
+
+<hr />
+
+  <!-- ============================================================
+       SECCION 1 - CANCIONES
+  ============================================================ -->
+
+<section id="Canciones">
+<h2>1.Rancheras</h2>
+
+
+<!--Etiqueta--> 
+
+<a href= "https://www.youtube.com/watch?v=NqTKZJkiDWQ&list=RDNqTKZJkiDWQ&start_radio=1">
+<p>Se acabo</p>
+<img src="seacabo.jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=XegHMc35Bo8&list=RDXegHMc35Bo8&start_radio=1">
+<p>Botella tras botella</p>
+<img src="botellatrasbotella.jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=PbanEgiGlOs&list=RDPbanEgiGlOs&start_radio=1">
+<p>Lado fragil</p>
+<img src="ladofragil.jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=LbwZCALNfb8&list=RDLbwZCALNfb8&start_radio=1">
+<p>Copita de licor</p>
+<img src="copita.jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=kkCfjAmkp24&list=RDkkCfjAmkp24&start_radio=1&rv=LbwZCALNfb8">
+<p>Dejala que se vaya</p>
+<img src="dejala.jpg" width="300" height="300">
+
+
+<section id="Canciones2">
+<h2>2.Llanero</h2>
+
+<a href= "https://www.youtube.com/watch?v=gXBWmWq9FsU&list=RDgXBWmWq9FsU&start_radio=1">
+<p>Luis Silva - Cómo No Voy a Decirlo</p>
+<img src="luissilva.jpg" width="300" height="300"> 
+
+<a href= "https://www.youtube.com/watch?v=a_rojE9DLLc&list=RDa_rojE9DLLc&start_radio=1">
+<p>Predestinacion - Aries Vigoht y Marcos Rodríguez</p>
+<img src="Predestinacion - Aries Vigoht y Marcos Rodríguez.jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=vYFFL-7la2g&list=RDvYFFL-7la2g&start_radio=1">
+<p>La Viuda Millonaria - Santiago Rojas "El Turpial de Guardatinajas" </p>
+<img src="La Viuda Millonaria - Santiago Rojas El Turpial de Guardatinajas .jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=Tqiv8ipI5Hw&list=RDTqiv8ipI5Hw&start_radio=1">
+<p>Ya no le camino más</p>
+<img src="Ya no le camino más.jpg" width="300" height="300">
+
+
+<section id="Canciones3">
+<h2>3.Rock</h2>
+
+<a href= "https://www.youtube.com/watch?v=xvVLWSsKjkI&list=RDxvVLWSsKjkI&start_radio=1">
+<p>Mägo de Oz- Fiesta pagana 2.0</p>
+<img src="fiestapagana.jpg" width="300" height="300"> 
+
+<a href= "https://www.youtube.com/watch?v=WYRpBdPuWqE">
+<p>I Got Chills | Grease (1978)</p>
+<img src="chills.jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=fJ9rUzIMcZQ&list=RDfJ9rUzIMcZQ&start_radio=1">
+<p>Queen – Bohemian Rhapsody (Official Video Remastered)</p>
+<img src="queen.jpg" width="300" height="300">
+
+<a href= "https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1">
+<p>Guns N' Roses - Sweet Child O' Mine (Official Music Video)</p>
+<img src="roses.jpg" width="300" height="300">
+
+
+</body>
